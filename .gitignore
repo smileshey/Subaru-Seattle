@@ -2,7 +2,7 @@
 pickles/*
 Datasets/*
 models/*
-PyTorch-Yolov4/*
+pytorch-YOLOv4/*
 
 # Git LFS
 *.wav filter=lfs diff=lfs merge=lfs -text
