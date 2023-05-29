@@ -3,6 +3,7 @@ from __future__ import absolute_import
 import numpy as np
 from . import kalman_filter
 from . import linear_assignment
+from .linear_assignment import min_cost_matching, matching_cascade
 from . import iou_matching
 from .track import Track
 

@@ -3,6 +3,7 @@ pickles/*
 Datasets/*
 models/*
 pytorch-YOLOv4/*
+TensorFlow-2.x-YOLOv3/*
 
 # Git LFS
 *.wav filter=lfs diff=lfs merge=lfs -text
